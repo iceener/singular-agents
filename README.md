@@ -1,6 +1,8 @@
 # Singular-Agents
 
-Singular Agent: A single-file agentic logic responsible for a specific process, such as managing tasks.
+Singular Agent: A single-file agentic logic responsible for a specific process, such as managing tasks. These agents are useful for programmers and companies that build tools for their personal or internal use.
+
+Such agents are designed primarily to work 'in the background,' responding to events or operating according to a schedule.
 
 This repository demonstrates how to build simple yet powerful AI agents using minimal dependencies, such as [Vercel AI SDK](https://sdk.vercel.ai/docs/introduction), [Zod](https://zod.dev/), and [Hono.dev](https://hono.dev/).
 
